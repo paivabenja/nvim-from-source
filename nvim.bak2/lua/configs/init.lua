@@ -1,0 +1,6 @@
+require("configs.lazy")
+require("configs.keymaps")
+require("configs.lsp")
+require("configs.cmp")
+require("configs.bufferline")
+require("configs.options")
